@@ -184,8 +184,7 @@
 				TargetAttributes = {
 					950E285A1F277584001F6B14 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = CRCC8S2RPF;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 					950E28701F27759C001F6B14 = {
 						CreatedOnToolsVersion = 8.3.3;
@@ -372,7 +371,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = CRCC8S2RPF;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = MultilineComment/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.itsdamslife.MultilineComment;
@@ -389,7 +388,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = CRCC8S2RPF;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = MultilineComment/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = org.itsdamslife.MultilineComment;
@@ -454,6 +453,7 @@
 				950E286C1F277585001F6B14 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		950E28801F27759C001F6B14 /* Build configuration list for PBXNativeTarget "MultilineCommentExt" */ = {
 			isa = XCConfigurationList;
@@ -462,6 +462,7 @@
 				950E28821F27759C001F6B14 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
